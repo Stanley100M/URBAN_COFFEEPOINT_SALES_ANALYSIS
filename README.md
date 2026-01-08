@@ -116,7 +116,7 @@ The dashboard includes **Slicers** connected to all Pivot Tables and charts for 
 
 * Timeline
 
-
+![Coffee size slicer Screenshot](https://github.com/Stanley100M/URBAN_COFFEEPOINT_SALES_ANALYSIS/blob/main/images/Timeline%20Slicer.JPG)
 * Coffee Size
 
 ![Coffee size slicer Screenshot](https://github.com/Stanley100M/URBAN_COFFEEPOINT_SALES_ANALYSIS/blob/main/images/Coffee_Size_Slicer.JPG)
@@ -138,25 +138,13 @@ This dashboard supports:
 
 * Trend analysis of sales performance over time
 * Identification of top-performing products and roast types
-* Comparison of loyal vs non-loyal customer revenue
+* Comparison of loyal vs non-loyal customer sales
 * Geographic analysis of sales distribution
 * Customer ranking for retention and targeting strategies
 
 ---
 
-## 8. Technical Skills Demonstrated
-
-* Advanced Microsoft Excel
-* Relational data modeling concepts
-* XLOOKUP and INDEX/MATCH for table joins
-* Pivot Tables and Pivot Charts
-* Interactive dashboards (Slicers & Timelines)
-* Data aggregation and summarization
-* Business-oriented data visualization
-
----
-
-## 9. Repository Contents
+## 8. Repository Contents
 
 * `Coffee_Sales_Analysis.xlsx`
 
@@ -166,17 +154,6 @@ This dashboard supports:
   * Interactive dashboard
 
 ---
-
-## 10. How to Use
-
-1. Download the Excel workbook from this repository
-2. Open using Microsoft Excel (desktop version recommended)
-3. Use slicers and timeline to filter data dynamically
-4. Analyze sales trends and performance metrics
-
-
----
-
 ## 12. Author
 
 **[STANLEY ]**
