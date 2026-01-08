@@ -98,6 +98,11 @@ All calculations were performed within Pivot Tables to ensure scalability and dy
 * Bar chart ranking customers by total sales
 * Identifies high-value customers
 
+
+
+
+![Chart Screenshot](https://github.com/Stanley100M/URBAN_COFFEEPOINT_SALES_ANALYSIS/blob/main/images/Customer%20Rank.JPG)
+
 ---
 
 ## 6. Interactivity & User Controls
