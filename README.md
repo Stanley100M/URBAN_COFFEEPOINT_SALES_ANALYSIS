@@ -134,6 +134,8 @@ All visuals respond dynamically to slicer and timeline selections, enabling mult
 
 ## 7. Business Insights Enabled
 
+![Dashboard Screenshot](https://github.com/Stanley100M/URBAN_COFFEEPOINT_SALES_ANALYSIS/blob/main/images/Dashboard.JPG)
+
 This dashboard supports:
 
 * Trend analysis of sales performance over time
@@ -146,8 +148,8 @@ This dashboard supports:
 
 ## 8. Repository Contents
 
-* `Coffee_Sales_Analysis.xlsx`
-
+* `Urban_Coffee_Sales_Dashboard.xlsx`
+You can download the Excel file [here](https://github.com/Stanley100M/URBAN_COFFEEPOINT_SALES_ANALYSIS/blob/main/Urban%20coffee%20sales%20Dashboard.xlsx)
   * Source tables
   * Lookup formulas
   * Pivot tables
