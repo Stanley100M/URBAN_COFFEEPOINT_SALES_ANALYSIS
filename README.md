@@ -59,7 +59,7 @@ To create an analysis-ready dataset, I used **Excel lookup functions** to join r
 
 ### Purpose
 
-* Enrich the Orders table with customer attributes (name, country, loyalty status)
+* Enrich the Orders table with customer attributes (name, email, country, loyalty status)
 * Enrich the Orders table with product attributes (coffee type, roast type, size, pricing)
 * Maintain data integrity through key-based lookups rather than manual joins
 
