@@ -88,10 +88,13 @@ All calculations were performed within Pivot Tables to ensure scalability and dy
 * Line chart displaying total sales by date
 * Integrated **Timeline** for dynamic date filtering
 
+![TotalSales Screenshot](https://github.com/Stanley100M/URBAN_COFFEEPOINT_SALES_ANALYSIS/blob/main/images/Total%20sales.JPG)
+
 ### Sales by Country
 
 * Bar chart showing total sales by country
 * Enables regional performance comparison
+
 
 ![Country Screenshot](https://github.com/Stanley100M/URBAN_COFFEEPOINT_SALES_ANALYSIS/blob/main/images/Sales%20by%20Country.JPG)
 
