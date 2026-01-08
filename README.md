@@ -114,9 +114,19 @@ All calculations were performed within Pivot Tables to ensure scalability and dy
 
 The dashboard includes **Slicers** connected to all Pivot Tables and charts for interactive analysis:
 
+* Timeline
+
+
 * Coffee Size
+
+![Coffee size slicer Screenshot](https://github.com/Stanley100M/URBAN_COFFEEPOINT_SALES_ANALYSIS/blob/main/images/Coffee_Size_Slicer.JPG)
+
 * Roast Type Name
+
+ ![Roast Type slicer Screenshot](https://github.com/Stanley100M/URBAN_COFFEEPOINT_SALES_ANALYSIS/blob/main/images/Roast_Type_Slicer.JPG) 
 * Loyalty Card Status
+
+![Loyalty slicer Screenshot](https://github.com/Stanley100M/URBAN_COFFEEPOINT_SALES_ANALYSIS/blob/main/images/Loyalty_Slicer.JPG)
 
 All visuals respond dynamically to slicer and timeline selections, enabling multi-dimensional analysis without modifying formulas.
 
