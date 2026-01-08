@@ -93,6 +93,8 @@ All calculations were performed within Pivot Tables to ensure scalability and dy
 * Bar chart showing total sales by country
 * Enables regional performance comparison
 
+![Country Screenshot](https://github.com/Stanley100M/URBAN_COFFEEPOINT_SALES_ANALYSIS/blob/main/images/Sales%20by%20Country.JPG)
+
 ### Top 5 Customers
 
 * Bar chart ranking customers by total sales
@@ -101,7 +103,7 @@ All calculations were performed within Pivot Tables to ensure scalability and dy
 
 
 
-![Chart Screenshot](https://github.com/Stanley100M/URBAN_COFFEEPOINT_SALES_ANALYSIS/blob/main/images/Customer%20Rank.JPG)
+![Customers Screenshot](https://github.com/Stanley100M/URBAN_COFFEEPOINT_SALES_ANALYSIS/blob/main/images/Customer%20Rank.JPG)
 
 ---
 
